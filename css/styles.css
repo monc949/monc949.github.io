@@ -10940,8 +10940,7 @@ hr.divider-light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background-image: url("https://www.flickr.com/photos/24662369@N07/4479811906");
-  /* background-image: url("../assets/img/bg-masthead.jpg"); */
+  background-image: url("../assets/img/bg-masthead.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
